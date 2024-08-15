@@ -49,7 +49,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/manojku1803/LiveDocs.git
-cd collaborative-editor
+cd LiveDocs
 ```
 
 **Installation**
